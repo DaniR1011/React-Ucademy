@@ -1,0 +1,71 @@
+{
+  "alumnos": [
+    {
+      "name": "Estudiante 01",
+      "user": "Est01",
+      "email": "estudiante01@gmail.com",
+      "movil": "601010101",
+      "date": "01-09-2022",
+      "id": 1
+    },
+    {
+      "name": "Estudiante 02",
+      "user": "Est02",
+      "email": "estudiante02@gmail.com",
+      "movil": "601010102",
+      "date": "02-09-2022",
+      "id": 2
+    },
+    {
+      "name": "Estudiante 03",
+      "user": "Est03",
+      "email": "estudiante03@gmail.com",
+      "movil": "601010103",
+      "date": "03-09-2022",
+      "id": 3
+    },
+    {
+      "name": "Estudiante 04",
+      "user": "Est04",
+      "email": "estudiante04@gmail.com",
+      "movil": "601010104",
+      "date": "04-09-2022",
+      "id": 4
+    },
+    {
+      "name": "Estudiante 05",
+      "user": "Est05",
+      "email": "estudiante05@gmail.com",
+      "movil": "601010105",
+      "date": "05-09-2022",
+      "id": 5
+    }
+  ],
+  "cursos": [
+    {
+      "curso": "Curso 01",
+      "date": "01-09-2022",
+      "id": 1
+    },
+    {
+      "curso": "Curso 02",
+      "date": "02-09-2022",
+      "id": 2
+    },
+    {
+      "curso": "Curso 03",
+      "date": "03-09-2022",
+      "id": 3
+    },
+    {
+      "curso": "Curso 04",
+      "date": "04-09-2022",
+      "id": 4
+    },
+    {
+      "curso": "Curso 05",
+      "date": "05-09-2022",
+      "id": 5
+    }
+  ]
+}
